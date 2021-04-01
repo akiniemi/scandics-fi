@@ -1,5 +1,5 @@
-# umlauts-fi
-An AutoHotkey script for easy Finnish umlauts on a US keyboard on a Windows system.
+# scandics-fi
+An AutoHotkey script for easy Finnish/Scandinavian characters on a US keyboard on a Windows system.
 
 * ALT+a will output an ä,
 * ALT+o will output an ö,
